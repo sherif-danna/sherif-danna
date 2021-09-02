@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python WITH Date since and SQL. 
 - 💞️ I’m looking to collaborate on Coding and building websites
 - 📫 How to reach me SHERIF.DANNA@GMAIL.COM
+- i am interested in coding with Html CSS Python. 
 
 <!---
 sherif-danna/sherif-danna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
